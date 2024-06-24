@@ -345,7 +345,7 @@ print(correlation)
 ```
 
 
-![png](Classification-Algorithm_files/Classification-Algorithm_2_0.png)
+![png](Classification-Algorithm_files\Classification-Algorithm_2_0.png)
     
 
 
@@ -777,7 +777,7 @@ display(results_styler)
 
 
 
-![png](Classification-Algorithm_files/Classification-Algorithm_7_3.png)
+![png](Classification-Algorithm_files\Classification-Algorithm_7_3.png)
     
 
 
@@ -1177,7 +1177,7 @@ display(results_styler)
 
 
 
-![png](Classification-Algorithm_files/Classification-Algorithm_9_3.png)
+![png](Classification-Algorithm_files\Classification-Algorithm_9_3.png)
     
 
 
@@ -3691,7 +3691,7 @@ plt.show()
 ```
 
 
-![png](LSTM-Algorithm_files\LSTM-Algorithm_20_0.png)
+![png](LSTM-Algorithm_files/LSTM-Algorithm_20_0.png)
     
 
 
@@ -3727,7 +3727,7 @@ plt.show()
 ```
 
 
-![png](LSTM-Algorithm_files\LSTM-Algorithm_21_0.png)
+![png](LSTM-Algorithm_files/LSTM-Algorithm_21_0.png)
     
 
 
@@ -3763,6 +3763,6 @@ plt.show()
 ```
 
 
-![png](LSTM-Algorithm_files\LSTM-Algorithm_22_0.png)
+![png](LSTM-Algorithm_files/LSTM-Algorithm_22_0.png)
     
 
