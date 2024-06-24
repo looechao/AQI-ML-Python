@@ -1,6 +1,6 @@
 ## 概述
 
-​        通过机器学习方法对北京地区的空气质量进行分类预测，以期降低监测成本并 提升预测精度。构建了两个模型：一是基于随机森林算法的分类预测模型，二是基于 长短期记忆网络（LSTM）的时间序列预测模型。在分类模型的构建过程中，对比了随机森林 算法和支持向量机（SVM）算法，并针对这两种算法进行了细致的参数调优，最终，随机森林 模型在测试集上达到了0.817的准确率和0.815的F1分数，而SVM模型在测试集上准确率和 F1 分数均为0.758，随机森林算法因其在测试集上展现出的较高准确率和泛化能力而被选为最 终模型。分类模型的创新之处在于减少了对高成本空气污染物数据的依赖，通过更多 地利用易于获取的气象数据中的有效特征值进行对空气质量等级的预测，有效地降低了测量成 本。而LSTM模型的构建考虑了时间序列数据的特点，利用历史数据对未来各项空气污染物指 数的数值进行了细致的预测，最终模型的预测精度达到了0.977，充分表现了其在实际应用中 的重要价值。未来可以进一步探索模型优化空间，以期达到更高的预测精度和更好的实际应用效果。
+​        通过机器学习方法对北京地区的空气质量进行分类预测，以期降低监测成本并提升预测精度。构建了两个模型：一是基于随机森林算法的分类预测模型，二是基于 长短期记忆网络（LSTM）的时间序列预测模型。在分类模型的构建过程中，对比了随机森林 算法和支持向量机（SVM）算法，并针对这两种算法进行了细致的参数调优，最终，随机森林 模型在测试集上达到了0.817的准确率和0.815的F1分数，而SVM模型在测试集上准确率和 F1分数均为0.758，随机森林算法因其在测试集上展现出的较高准确率和泛化能力而被选为最终模型。分类模型的创新之处在于减少了对高成本空气污染物数据的依赖，通过更多地利用易于获取的气象数据中的有效特征值进行对空气质量等级的预测，有效地降低了测量成 本。而LSTM模型的构建考虑了时间序列数据的特点，利用历史数据对未来各项空气污染物指 数的数值进行了细致的预测，最终模型的预测精度达到了0.977，充分表现了其在实际应用中 的重要价值。未来可以进一步探索模型优化空间，以期达到更高的预测精度和更好的实际应用效果。
 
 ## Classification-Algorithm
 
@@ -345,9 +345,8 @@ print(correlation)
 ```
 
 
-​    
-![png](D:/Documents/Coding/python-coding-notebook/Classification-Algorithm_files/Classification-Algorithm_2_0.png)
-​    
+![png](Classification-Algorithm_files/Classification-Algorithm_2_0.png)
+    
 
 
     质量等级        1.000000
@@ -1178,7 +1177,7 @@ display(results_styler)
 
 
 
-![png](D:/Documents/Coding/python-coding-notebook/Classification-Algorithm_files/Classification-Algorithm_9_3.png)
+![png](Classification-Algorithm_files/Classification-Algorithm_9_3.png)
     
 
 
@@ -1911,7 +1910,7 @@ for target in targets:
 
 
 
-![png](D:\Documents\Coding\python-coding-notebook\LSTM-Algorithm_files\LSTM-Algorithm_6_1.png)
+![png](LSTM-Algorithm_files\LSTM-Algorithm_6_1.png)
     
 
 
@@ -1939,7 +1938,7 @@ for target in targets:
 
 
 
-![png](D:\Documents\Coding\python-coding-notebook\LSTM-Algorithm_files\LSTM-Algorithm_6_3.png)
+![png](LSTM-Algorithm_files\LSTM-Algorithm_6_3.png)
     
 
 
@@ -1967,7 +1966,7 @@ for target in targets:
 
 
 
-![png](D:\Documents\Coding\python-coding-notebook\LSTM-Algorithm_files\LSTM-Algorithm_6_5.png)
+![png](LSTM-Algorithm_files\LSTM-Algorithm_6_5.png)
     
 
 
@@ -1995,7 +1994,7 @@ for target in targets:
 
 
 
-![png](D:\Documents\Coding\python-coding-notebook\LSTM-Algorithm_files\LSTM-Algorithm_6_7.png)
+![png](LSTM-Algorithm_files\LSTM-Algorithm_6_7.png)
     
 
 
@@ -2023,7 +2022,7 @@ for target in targets:
 
 
 
-![png](D:\Documents\Coding\python-coding-notebook\LSTM-Algorithm_files\LSTM-Algorithm_6_9.png)
+![png](LSTM-Algorithm_files\LSTM-Algorithm_6_9.png)
     
 
 
@@ -2051,7 +2050,7 @@ for target in targets:
 
 
 
-![png](D:\Documents\Coding\python-coding-notebook\LSTM-Algorithm_files\LSTM-Algorithm_6_11.png)
+![png](LSTM-Algorithm_files\LSTM-Algorithm_6_11.png)
     
 
 
@@ -2866,9 +2865,8 @@ plt.show()
 ```
 
 
-​    
-![png](D:\Documents\Coding\python-coding-notebook\LSTM-Algorithm_files\LSTM-Algorithm_13_0.png)
-​    
+![png](LSTM-Algorithm_files\LSTM-Algorithm_13_0.png)
+    
 
 
 绘制误差图
@@ -2900,9 +2898,8 @@ plt.show()
 ```
 
 
-​    
-![png](D:\Documents\Coding\python-coding-notebook\LSTM-Algorithm_files\LSTM-Algorithm_15_0.png)
-​    
+![png](LSTM-Algorithm_files\LSTM-Algorithm_15_0.png)
+    
 
 
 预测出的未来30天的天气数据
@@ -3694,9 +3691,8 @@ plt.show()
 ```
 
 
-​    
-![png](D:\Documents\Coding\python-coding-notebook\LSTM-Algorithm_files\LSTM-Algorithm_20_0.png)
-​    
+![png](LSTM-Algorithm_files\LSTM-Algorithm_20_0.png)
+    
 
 
 
@@ -3731,9 +3727,8 @@ plt.show()
 ```
 
 
-​    
-![png](D:\Documents\Coding\python-coding-notebook\LSTM-Algorithm_files\LSTM-Algorithm_21_0.png)
-​    
+![png](LSTM-Algorithm_files\LSTM-Algorithm_21_0.png)
+    
 
 
 
@@ -3768,7 +3763,6 @@ plt.show()
 ```
 
 
-​    
-![png](D:\Documents\Coding\python-coding-notebook\LSTM-Algorithm_files\LSTM-Algorithm_22_0.png)
-​    
+![png](LSTM-Algorithm_files\LSTM-Algorithm_22_0.png)
+    
 
