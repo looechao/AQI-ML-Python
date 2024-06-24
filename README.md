@@ -777,7 +777,7 @@ display(results_styler)
 
 
 
-![png](D:/Documents/Coding/python-coding-notebook/Classification-Algorithm_files/Classification-Algorithm_7_3.png)
+![png](Classification-Algorithm_files/Classification-Algorithm_7_3.png)
     
 
 
