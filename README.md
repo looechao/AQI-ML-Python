@@ -471,11 +471,6 @@ display(results_styler)
 
 
 
-<style type="text/css">
-#T_5c29b_row0_col0, #T_5c29b_row0_col1, #T_5c29b_row0_col2, #T_5c29b_row0_col3, #T_5c29b_row1_col0, #T_5c29b_row1_col1, #T_5c29b_row1_col2, #T_5c29b_row1_col3 {
-  text-align: center;
-}
-</style>
 <table id="T_5c29b">
   <thead>
     <tr>
@@ -508,11 +503,6 @@ display(results_styler)
 
 
 
-<style type="text/css">
-#T_93ae6_row0_col0, #T_93ae6_row0_col1, #T_93ae6_row0_col2, #T_93ae6_row0_col3, #T_93ae6_row0_col4, #T_93ae6_row0_col5, #T_93ae6_row0_col6, #T_93ae6_row0_col7, #T_93ae6_row0_col8, #T_93ae6_row1_col0, #T_93ae6_row1_col1, #T_93ae6_row1_col2, #T_93ae6_row1_col3, #T_93ae6_row1_col4, #T_93ae6_row1_col5, #T_93ae6_row1_col6, #T_93ae6_row1_col7, #T_93ae6_row1_col8, #T_93ae6_row2_col0, #T_93ae6_row2_col1, #T_93ae6_row2_col2, #T_93ae6_row2_col3, #T_93ae6_row2_col4, #T_93ae6_row2_col5, #T_93ae6_row2_col6, #T_93ae6_row2_col7, #T_93ae6_row2_col8, #T_93ae6_row3_col0, #T_93ae6_row3_col1, #T_93ae6_row3_col2, #T_93ae6_row3_col3, #T_93ae6_row3_col4, #T_93ae6_row3_col5, #T_93ae6_row3_col6, #T_93ae6_row3_col7, #T_93ae6_row3_col8, #T_93ae6_row4_col0, #T_93ae6_row4_col1, #T_93ae6_row4_col2, #T_93ae6_row4_col3, #T_93ae6_row4_col4, #T_93ae6_row4_col5, #T_93ae6_row4_col6, #T_93ae6_row4_col7, #T_93ae6_row4_col8, #T_93ae6_row5_col0, #T_93ae6_row5_col1, #T_93ae6_row5_col2, #T_93ae6_row5_col3, #T_93ae6_row5_col4, #T_93ae6_row5_col5, #T_93ae6_row5_col6, #T_93ae6_row5_col7, #T_93ae6_row5_col8, #T_93ae6_row6_col0, #T_93ae6_row6_col1, #T_93ae6_row6_col2, #T_93ae6_row6_col3, #T_93ae6_row6_col4, #T_93ae6_row6_col5, #T_93ae6_row6_col6, #T_93ae6_row6_col7, #T_93ae6_row6_col8, #T_93ae6_row7_col0, #T_93ae6_row7_col1, #T_93ae6_row7_col2, #T_93ae6_row7_col3, #T_93ae6_row7_col4, #T_93ae6_row7_col5, #T_93ae6_row7_col6, #T_93ae6_row7_col7, #T_93ae6_row7_col8, #T_93ae6_row8_col0, #T_93ae6_row8_col1, #T_93ae6_row8_col2, #T_93ae6_row8_col3, #T_93ae6_row8_col4, #T_93ae6_row8_col5, #T_93ae6_row8_col6, #T_93ae6_row8_col7, #T_93ae6_row8_col8, #T_93ae6_row9_col0, #T_93ae6_row9_col1, #T_93ae6_row9_col2, #T_93ae6_row9_col3, #T_93ae6_row9_col4, #T_93ae6_row9_col5, #T_93ae6_row9_col6, #T_93ae6_row9_col7, #T_93ae6_row9_col8, #T_93ae6_row10_col0, #T_93ae6_row10_col1, #T_93ae6_row10_col2, #T_93ae6_row10_col3, #T_93ae6_row10_col4, #T_93ae6_row10_col5, #T_93ae6_row10_col6, #T_93ae6_row10_col7, #T_93ae6_row10_col8, #T_93ae6_row11_col0, #T_93ae6_row11_col1, #T_93ae6_row11_col2, #T_93ae6_row11_col3, #T_93ae6_row11_col4, #T_93ae6_row11_col5, #T_93ae6_row11_col6, #T_93ae6_row11_col7, #T_93ae6_row11_col8, #T_93ae6_row12_col0, #T_93ae6_row12_col1, #T_93ae6_row12_col2, #T_93ae6_row12_col3, #T_93ae6_row12_col4, #T_93ae6_row12_col5, #T_93ae6_row12_col6, #T_93ae6_row12_col7, #T_93ae6_row12_col8, #T_93ae6_row13_col0, #T_93ae6_row13_col1, #T_93ae6_row13_col2, #T_93ae6_row13_col3, #T_93ae6_row13_col4, #T_93ae6_row13_col5, #T_93ae6_row13_col6, #T_93ae6_row13_col7, #T_93ae6_row13_col8, #T_93ae6_row14_col0, #T_93ae6_row14_col1, #T_93ae6_row14_col2, #T_93ae6_row14_col3, #T_93ae6_row14_col4, #T_93ae6_row14_col5, #T_93ae6_row14_col6, #T_93ae6_row14_col7, #T_93ae6_row14_col8, #T_93ae6_row15_col0, #T_93ae6_row15_col1, #T_93ae6_row15_col2, #T_93ae6_row15_col3, #T_93ae6_row15_col4, #T_93ae6_row15_col5, #T_93ae6_row15_col6, #T_93ae6_row15_col7, #T_93ae6_row15_col8, #T_93ae6_row16_col0, #T_93ae6_row16_col1, #T_93ae6_row16_col2, #T_93ae6_row16_col3, #T_93ae6_row16_col4, #T_93ae6_row16_col5, #T_93ae6_row16_col6, #T_93ae6_row16_col7, #T_93ae6_row16_col8, #T_93ae6_row17_col0, #T_93ae6_row17_col1, #T_93ae6_row17_col2, #T_93ae6_row17_col3, #T_93ae6_row17_col4, #T_93ae6_row17_col5, #T_93ae6_row17_col6, #T_93ae6_row17_col7, #T_93ae6_row17_col8, #T_93ae6_row18_col0, #T_93ae6_row18_col1, #T_93ae6_row18_col2, #T_93ae6_row18_col3, #T_93ae6_row18_col4, #T_93ae6_row18_col5, #T_93ae6_row18_col6, #T_93ae6_row18_col7, #T_93ae6_row18_col8, #T_93ae6_row19_col0, #T_93ae6_row19_col1, #T_93ae6_row19_col2, #T_93ae6_row19_col3, #T_93ae6_row19_col4, #T_93ae6_row19_col5, #T_93ae6_row19_col6, #T_93ae6_row19_col7, #T_93ae6_row19_col8 {
-  text-align: center;
-}
-</style>
 <table id="T_93ae6">
   <thead>
     <tr>
@@ -871,11 +861,8 @@ display(results_styler)
 
 
 
-<style type="text/css">
-#T_fc809_row0_col0, #T_fc809_row0_col1, #T_fc809_row0_col2, #T_fc809_row0_col3, #T_fc809_row1_col0, #T_fc809_row1_col1, #T_fc809_row1_col2, #T_fc809_row1_col3 {
-  text-align: center;
-}
 </style>
+
 <table id="T_fc809">
   <thead>
     <tr>
@@ -908,11 +895,6 @@ display(results_styler)
 
 
 
-<style type="text/css">
-#T_0b4e1_row0_col0, #T_0b4e1_row0_col1, #T_0b4e1_row0_col2, #T_0b4e1_row0_col3, #T_0b4e1_row0_col4, #T_0b4e1_row0_col5, #T_0b4e1_row0_col6, #T_0b4e1_row0_col7, #T_0b4e1_row0_col8, #T_0b4e1_row1_col0, #T_0b4e1_row1_col1, #T_0b4e1_row1_col2, #T_0b4e1_row1_col3, #T_0b4e1_row1_col4, #T_0b4e1_row1_col5, #T_0b4e1_row1_col6, #T_0b4e1_row1_col7, #T_0b4e1_row1_col8, #T_0b4e1_row2_col0, #T_0b4e1_row2_col1, #T_0b4e1_row2_col2, #T_0b4e1_row2_col3, #T_0b4e1_row2_col4, #T_0b4e1_row2_col5, #T_0b4e1_row2_col6, #T_0b4e1_row2_col7, #T_0b4e1_row2_col8, #T_0b4e1_row3_col0, #T_0b4e1_row3_col1, #T_0b4e1_row3_col2, #T_0b4e1_row3_col3, #T_0b4e1_row3_col4, #T_0b4e1_row3_col5, #T_0b4e1_row3_col6, #T_0b4e1_row3_col7, #T_0b4e1_row3_col8, #T_0b4e1_row4_col0, #T_0b4e1_row4_col1, #T_0b4e1_row4_col2, #T_0b4e1_row4_col3, #T_0b4e1_row4_col4, #T_0b4e1_row4_col5, #T_0b4e1_row4_col6, #T_0b4e1_row4_col7, #T_0b4e1_row4_col8, #T_0b4e1_row5_col0, #T_0b4e1_row5_col1, #T_0b4e1_row5_col2, #T_0b4e1_row5_col3, #T_0b4e1_row5_col4, #T_0b4e1_row5_col5, #T_0b4e1_row5_col6, #T_0b4e1_row5_col7, #T_0b4e1_row5_col8, #T_0b4e1_row6_col0, #T_0b4e1_row6_col1, #T_0b4e1_row6_col2, #T_0b4e1_row6_col3, #T_0b4e1_row6_col4, #T_0b4e1_row6_col5, #T_0b4e1_row6_col6, #T_0b4e1_row6_col7, #T_0b4e1_row6_col8, #T_0b4e1_row7_col0, #T_0b4e1_row7_col1, #T_0b4e1_row7_col2, #T_0b4e1_row7_col3, #T_0b4e1_row7_col4, #T_0b4e1_row7_col5, #T_0b4e1_row7_col6, #T_0b4e1_row7_col7, #T_0b4e1_row7_col8, #T_0b4e1_row8_col0, #T_0b4e1_row8_col1, #T_0b4e1_row8_col2, #T_0b4e1_row8_col3, #T_0b4e1_row8_col4, #T_0b4e1_row8_col5, #T_0b4e1_row8_col6, #T_0b4e1_row8_col7, #T_0b4e1_row8_col8, #T_0b4e1_row9_col0, #T_0b4e1_row9_col1, #T_0b4e1_row9_col2, #T_0b4e1_row9_col3, #T_0b4e1_row9_col4, #T_0b4e1_row9_col5, #T_0b4e1_row9_col6, #T_0b4e1_row9_col7, #T_0b4e1_row9_col8, #T_0b4e1_row10_col0, #T_0b4e1_row10_col1, #T_0b4e1_row10_col2, #T_0b4e1_row10_col3, #T_0b4e1_row10_col4, #T_0b4e1_row10_col5, #T_0b4e1_row10_col6, #T_0b4e1_row10_col7, #T_0b4e1_row10_col8, #T_0b4e1_row11_col0, #T_0b4e1_row11_col1, #T_0b4e1_row11_col2, #T_0b4e1_row11_col3, #T_0b4e1_row11_col4, #T_0b4e1_row11_col5, #T_0b4e1_row11_col6, #T_0b4e1_row11_col7, #T_0b4e1_row11_col8, #T_0b4e1_row12_col0, #T_0b4e1_row12_col1, #T_0b4e1_row12_col2, #T_0b4e1_row12_col3, #T_0b4e1_row12_col4, #T_0b4e1_row12_col5, #T_0b4e1_row12_col6, #T_0b4e1_row12_col7, #T_0b4e1_row12_col8, #T_0b4e1_row13_col0, #T_0b4e1_row13_col1, #T_0b4e1_row13_col2, #T_0b4e1_row13_col3, #T_0b4e1_row13_col4, #T_0b4e1_row13_col5, #T_0b4e1_row13_col6, #T_0b4e1_row13_col7, #T_0b4e1_row13_col8, #T_0b4e1_row14_col0, #T_0b4e1_row14_col1, #T_0b4e1_row14_col2, #T_0b4e1_row14_col3, #T_0b4e1_row14_col4, #T_0b4e1_row14_col5, #T_0b4e1_row14_col6, #T_0b4e1_row14_col7, #T_0b4e1_row14_col8, #T_0b4e1_row15_col0, #T_0b4e1_row15_col1, #T_0b4e1_row15_col2, #T_0b4e1_row15_col3, #T_0b4e1_row15_col4, #T_0b4e1_row15_col5, #T_0b4e1_row15_col6, #T_0b4e1_row15_col7, #T_0b4e1_row15_col8, #T_0b4e1_row16_col0, #T_0b4e1_row16_col1, #T_0b4e1_row16_col2, #T_0b4e1_row16_col3, #T_0b4e1_row16_col4, #T_0b4e1_row16_col5, #T_0b4e1_row16_col6, #T_0b4e1_row16_col7, #T_0b4e1_row16_col8, #T_0b4e1_row17_col0, #T_0b4e1_row17_col1, #T_0b4e1_row17_col2, #T_0b4e1_row17_col3, #T_0b4e1_row17_col4, #T_0b4e1_row17_col5, #T_0b4e1_row17_col6, #T_0b4e1_row17_col7, #T_0b4e1_row17_col8, #T_0b4e1_row18_col0, #T_0b4e1_row18_col1, #T_0b4e1_row18_col2, #T_0b4e1_row18_col3, #T_0b4e1_row18_col4, #T_0b4e1_row18_col5, #T_0b4e1_row18_col6, #T_0b4e1_row18_col7, #T_0b4e1_row18_col8, #T_0b4e1_row19_col0, #T_0b4e1_row19_col1, #T_0b4e1_row19_col2, #T_0b4e1_row19_col3, #T_0b4e1_row19_col4, #T_0b4e1_row19_col5, #T_0b4e1_row19_col6, #T_0b4e1_row19_col7, #T_0b4e1_row19_col8 {
-  text-align: center;
-}
-</style>
 <table id="T_0b4e1">
   <thead>
     <tr>
